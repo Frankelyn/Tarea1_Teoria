@@ -1,0 +1,16 @@
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\bin\Debug\net5.0\Tarea1.exe
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\bin\Debug\net5.0\Tarea1.deps.json
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\bin\Debug\net5.0\Tarea1.runtimeconfig.json
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\bin\Debug\net5.0\Tarea1.runtimeconfig.dev.json
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\bin\Debug\net5.0\Tarea1.dll
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\bin\Debug\net5.0\ref\Tarea1.dll
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\bin\Debug\net5.0\Tarea1.pdb
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\obj\Debug\net5.0\Tarea1.csprojAssemblyReference.cache
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\obj\Debug\net5.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\obj\Debug\net5.0\Tarea1.AssemblyInfoInputs.cache
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\obj\Debug\net5.0\Tarea1.AssemblyInfo.cs
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\obj\Debug\net5.0\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\obj\Debug\net5.0\Tarea1.dll
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\obj\Debug\net5.0\ref\Tarea1.dll
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\obj\Debug\net5.0\Tarea1.pdb
+C:\Users\frank\OneDrive\Escritorio\UCNE_3-2021\Programacion_Aplicada_1\primeraApp\Tarea1\Tarea1\Tarea1\obj\Debug\net5.0\Tarea1.genruntimeconfig.cache
